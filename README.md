@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Min1870/interactive-rating-component-main)
-- Live Site URL: [Add live site URL here](https://magenta-medovik-a2fded.netlify.app/)
+- Solution URL: [https://github.com/Min1870/interactive-rating-component-main](https://github.com/Min1870/interactive-rating-component-main)
+- Live Site URL: [https://magenta-medovik-a2fded.netlify.app/](https://magenta-medovik-a2fded.netlify.app/)
 
 ## My process
 
